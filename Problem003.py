@@ -25,8 +25,6 @@ def max_factor(number):
             i += 1;
     return largest;
 
-#print (max_factor(14));
-
 #Testing some sample data from the problem description
 assert(is_prime(2));
 assert(is_prime(7));
