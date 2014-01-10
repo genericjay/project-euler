@@ -3,6 +3,7 @@ Problem 004 - First Attempt (Programming solution)
 Finding the smallest number evenly divisible by 1 to 20 allows for some short cuts, the first thing I will do is find all of the prime factors of the numbers largest to smallest until all of the numbers that need to be checked are crossed off.
 
 Numbers:
+```
 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20
 
 20 => 5, 2, 2
@@ -24,6 +25,7 @@ Numbers:
 4 => 2 * 2
 3 => 3
 2 => 2
+```
 
 The numbers 19, 17, 13, 11 can only be represented by checking if what we're checking is divisible by 19, 17, 13, and 11 so there is no shortcuts for those. So far we must check: [11, 13, 17, 19]
 
