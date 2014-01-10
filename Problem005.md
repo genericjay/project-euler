@@ -55,7 +55,7 @@ Next I'll choose the largest numbers and cross off what they cover.
 
 1, ~~2~~, ~~3~~, ~~4~~, ~~5~~, ~~6~~, ~~7~~, ~~8~~, ~~9~~, ~~10~~, ~~11~~, ~~12~~, ~~13~~, ~~14~~, ~~15~~, ~~16~~, ~~17~~, ~~18~~, ~~19~~, ~~20~~
 
-So if we check [11, 13, 17, 19] (the primes) and [12, 14, 15, 16, 18, 20] we will have checked if the number is divisible by one to twenty, the entire list we need to check is:
+So if we check [11, 13, 17, 19] \(the primes\) and [12, 14, 15, 16, 18, 20] we will have checked if the number is divisible by one to twenty, the entire list we need to check is:
 
 [11, 12, 13, 14, 15, 16, 17, 18, 19, 20], which happens to be from 11 to 20 (both inclusively)
 
